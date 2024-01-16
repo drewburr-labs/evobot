@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  evobot:
+  - apiVersion: v2
+    appVersion: 3.0.0
+    created: "2024-01-16T01:30:57.014796215Z"
+    description: A Helm chart for Kubernetes
+    digest: 5b92cf128d90adfc6c282db0c9f7e91e66067bdcfd0ae58f31cc3cb33b01b5ff
+    maintainers:
+    - email: drew@drewburr.com
+      name: drewburr
+      url: https://github.com/drewburr
+    name: evobot
+    type: application
+    urls:
+    - https://github.com/drewburr-labs/evobot/releases/download/evobot-0.1.1/evobot-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-01-16T01:30:57.014845647Z"
